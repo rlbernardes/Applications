@@ -29,5 +29,5 @@ MMRMLLMRMMMM
 LLMMMRRMMMMM
 2 2 E
 RRMMMMRMMLMMM
-============================================================================================================================================
+============== ==============================================================================================================================
 For the test aplication use the file input.txt, and choose the option 6, this option creates e moves the rovers, and show the result in the finish
